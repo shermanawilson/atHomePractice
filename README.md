@@ -1,2 +1,1 @@
-# atHomePractice
-My practice at home.
+# codeup-java-study
